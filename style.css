@@ -138,6 +138,10 @@ footer{
 .ic{
     display: none;
 }
+.ob{
+    display: flex;
+    gap: 32px;
+}
 @media (max-width:1000px){
     nav{
         width: 768px;
